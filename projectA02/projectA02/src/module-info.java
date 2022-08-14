@@ -1,0 +1,2 @@
+module projectA02 {
+}
